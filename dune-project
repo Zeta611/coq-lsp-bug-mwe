@@ -1,2 +1,2 @@
-(lang dune 3.17)
+(lang dune 3.16)
 (using coq 0.8)
